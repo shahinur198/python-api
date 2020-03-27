@@ -13,3 +13,6 @@ http://localhost:5000/devices
 
 
 https://developer.bka.sh/v1.2.0-beta/reference#payment
+
+
+https://www.dutchbanglabank.com/electronic-banking/internet-payment-gateway.html
